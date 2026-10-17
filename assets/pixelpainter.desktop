@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PixelPainter
+GenericName=Пиксельный редактор
+Comment=Создание и редактирование пиксельных картинок
+Exec=pixelpainter %F
+Icon=pixelpainter
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;
+MimeType=image/png;image/bmp;image/jpeg;image/webp;image/gif;
+Keywords=pixel;art;editor;draw;image;png;
+StartupNotify=true
+StartupWMClass=PixelPainter
